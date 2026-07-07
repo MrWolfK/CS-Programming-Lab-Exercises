@@ -1,3 +1,4 @@
+//It is a program to manage customer data using an array of structures.
 #include <iostream>
 using namespace std;
 	
